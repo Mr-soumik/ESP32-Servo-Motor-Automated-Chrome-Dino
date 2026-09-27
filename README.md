@@ -3,6 +3,12 @@
 [![Arduino](https://img.shields.io/badge/Platform-Arduino-blue.svg)](https://www.arduino.cc/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+## Connect with TechTadka360
+
+- YouTube: [@techtadka360official](https://youtube.com/@techtadka360official?si=GdlIntZKv30kPgBk)
+- Instagram: [@techtadka360official](https://www.instagram.com/techtadka360official?igsh=cWR4bnhjdWw1MHdh)
+- Facebook: [TechTadka360](https://www.facebook.com/share/1EkKAJNLdB/)
+  
 A hardware-based, zero-software-hack bot that physically plays the Google Chrome Dinosaur (T-Rex) game (`chrome://dino`). By utilizing an ESP32 microcontroller, a bare Light Dependent Resistor (LDR)[cite: 1], and a servo motor, this project detects moving obstacles on the screen and mechanically presses the spacebar to jump.
 
 ## 🌟 Features
